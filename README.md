@@ -7,6 +7,7 @@
 
 - IT Basics
 - Fundamentals
+- IPv4 & Networking
 - Building a Website
 - HTML
 - HTML Advanced
