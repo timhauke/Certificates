@@ -9,7 +9,7 @@
 - IT Basics
 - Fundamentals
 - IPv4 & Networking
-- Linux 75%
+- Linux
 - Building a Website
 - HTML
 - HTML Advanced
@@ -22,4 +22,5 @@
 ```
 
 [DE] Diese Liste wird immer auf dem neusten Stand gehalten. 
+
 [ENG] This list is always kept up to date.
