@@ -5,9 +5,11 @@
 [DE] Erfolgreich abgeschlossene Zertifikate:
 [ENG] Successfully completed certificates:
 
+```
 - IT Basics
 - Fundamentals
 - IPv4 & Networking
+- Linux 75%
 - Building a Website
 - HTML
 - HTML Advanced
@@ -17,8 +19,7 @@
 - SEO
 - NodeJS
 - Java
+```
 
-
-
-[DE] Diese Liste wird immer auf dem neusten Stand gehalten.
+[DE] Diese Liste wird immer auf dem neusten Stand gehalten. 
 [ENG] This list is always kept up to date.
