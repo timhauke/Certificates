@@ -8,6 +8,8 @@
 ```
 freeCodeCamp:
 - Responsive Webdesign
+```
+```
 LinkedIn Learning:
 - Grundlagen der Webprogrammierung: Meine erste Website
 - Webtechniken lernen 1: HTML
